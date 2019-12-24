@@ -51,6 +51,7 @@ A self-organizing map (SOM) is a type of artificial neural network (ANN) that is
 As we can see that environmental performance is lowest among countries like India, Pakistan, Nigeria, Yemen, Saudi Arabia, Congo and other African countries. Countries like Canada, US, Brazil, Australia and West Europian countries are perfoming well on the sustainability index. We can compare the results wit the Enviormental Performance Index we see that our model produces similar results.
 ### Results from the model
 <img src="images\image3.png">
+
 ### Results from Environmental Performance Index
 <img src="images\image2.png">
 
