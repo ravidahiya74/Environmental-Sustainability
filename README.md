@@ -46,3 +46,8 @@ A self-organizing map (SOM) is a type of artificial neural network (ANN) that is
 * land_degradation: Rain fed cropland, irrigated cropland, or range, pasture, forest and woodlands that have experienced the reduction or loss of biological or economic productivity and complexity resulting from a combination of pressures, including land use and management practices.
 * red_list_index: Measure of the aggregate extinction risk across groups of species. It is based on genuine changes in the number of species in each category of extinction risk on the International Union for Conservation of Nature Red List of Threatened Species. It ranges from 0, all species categorized as extinct, to 1, all species categorized as least concern.
 * Pollution Index: Air quality score. Higher the score, worse is the air quality
+
+# Results
+As we can see that environmental performance is lowest among countries like India, Pakistan, Nigeria, Yemen, Saudi Arabia, Congo and other African countries. Countries like Canada, US, Brazil, Australia and West Europian countries are perfoming well on the sustainability index. We can compare the results wit the Enviormental Performance Index we see that our model produces similar results.
+<img src="images\image2.png">
+<img src="images\image3.png">
